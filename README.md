@@ -7,5 +7,8 @@ ML models on Material 4.0 Project
 
 * Synthetic Minority Oversampling TEchnique (SMOTE) applied 
 
+![....](https://github.com/gimoonnam/my-Stock-Tracing/blob/main/stockProfit.png)
 
+* Information Gain to evaluate feature importances
 
+![....](https://github.com/gimoonnam/my-Stock-Tracing/blob/main/stockProfit.png)
